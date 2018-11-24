@@ -12,49 +12,49 @@
   	{
       "name": "Align top to key object",
       "identifier": "top",
-      "shortcut": "cmd option control t",
+      "shortcut": "ctrl cmd ↑",
       "script": "align.cocoascript",
       "handler": "alignTop"
     },
     {
       "name": "Align bottom to key object",
       "identifier": "bottom",
-      "shortcut": "cmd option control b",
+      "shortcut": "ctrl cmd ↓",
       "script": "align.cocoascript",
       "handler": "alignBottom"
     },
     {
       "name": "Align left to key object",
       "identifier": "left",
-      "shortcut": "cmd option control l",
+      "shortcut": "ctrl cmd ←",
       "script": "align.cocoascript",
       "handler": "alignLeft"
     },
     {
       "name": "Align right to key object",
       "identifier": "right",
-      "shortcut": "cmd option control r",
+      "shortcut": "ctrl cmd →",
       "script": "align.cocoascript",
       "handler": "alignRight"
     },
     {
-      "name": "Align vertical center to key object",
+      "name": "Align horizontal center to key object",
       "identifier": "verticalCenter",
-      "shortcut": "cmd option control v",
+      "shortcut": "ctrl cmd /",
       "script": "align.cocoascript",
       "handler": "alignVerticalCenter"
     },
     {
-      "name": "Align horizontal center to key object",
+      "name": "Align vertical center to key object",
       "identifier": "horizontalCenter",
-      "shortcut": "cmd option control h",
+      "shortcut": "ctrl cmd .",
       "script": "align.cocoascript",
       "handler": "alignHorizontalCenter"
     },
     {
       "name": "Align vertical and horizontal center to key object",
       "identifier": "center",
-      "shortcut": "cmd option control a",
+      "shortcut": "ctrl cmd ,",
       "script": "align.cocoascript",
       "handler": "alignCenter"
     },
